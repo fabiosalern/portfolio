@@ -1,0 +1,3 @@
+# BTC‑Sentinel: Unraveling Bitcoin Market Sentiment with Machine Learning
+- **Description**: implementing a daily pipeline to gather and merge data from diverse sources (Reddit, Google Trends, web articles, etc.) using varied techniques (API, web scraping) to construct a Bitcoin market sentiment index.
+- **Technologies**: SQL, Selenium (web scraping), Reddit API, RDBMS, Sentiment Analysis NLP, Hugging Face.
