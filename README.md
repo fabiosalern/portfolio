@@ -39,5 +39,11 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 
 - [E‑Commerce Sales Forecasting and Interactive Monitoring Visualization](https://github.com/fabiosalern/portfolio/tree/main/E-commerce%20Sales%20Forecasting)
 
-    - **Description**: Forecasting future sales for an ecommerce store using various techniques and identifying the best‑performing predictive model. It was in addittion designed an interactive dashboard to present the forecasting results in a clear and accessible manner
+    - **Description**: Forecasting future sales for an ecommerce store using various techniques and identifying the best‑performing predictive model. It was in addittion designed an interactive dashboard to present the forecasting results in a clear and accessible manner.
     - **Technologies**: Tensorflow, Keras, pmdarima: SARIMAX, Sklearn, Tableau, R.
+
+## Data Analysis
+
+- [The Impact of Short-Term-Rentals on European Cities ](https://github.com/DanielColombaro/Smart-Cities/tree/main)
+  - **Description**: This study examines the impact of short-term rentals (STRs), specifically focusing on Airbnb, on urban housing markets, demographic shifts, and regulatory responses in Barcelona. A comparative analysis with Milan, where regulations remain lenient, highlights robust regulatory frameworks' critical role in curbing the STR market's negative externalities while balancing economic benefits and housing affordability.
+  - **Technologies**: Python, Numpy, Pandas, Matplotlib
