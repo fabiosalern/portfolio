@@ -1,5 +1,5 @@
 # Data Science projects portfolio
-Welcome to my Data Science Projects Repository! This repository contains a collection of my data science projects I have worked on during the years.
+Welcome to my Data Science Projects Repository! This repository contains a collection of my data science projects that I have worked on during my time at UNI as a student.
 
 ## Large Language Models (NLP)
 
